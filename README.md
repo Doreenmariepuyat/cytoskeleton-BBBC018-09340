@@ -60,3 +60,17 @@ The figures below illustrate the key steps of this activity, from selecting the 
 ![Mean actin fluorescence intensity](figures/actin_intensity.png)
 
 **Figure 11. Mean Actin Fluorescence Intensity.** Mean actin fluorescence varied among the five selected cells. Cell 5 had the highest mean intensity, while Cell 1 had the lowest. These values describe the selected regions in this image field and should not be treated as directly comparable with raw intensities from other fields.
+
+## Discussion Questions
+
+### 1. Which specific phenotype did you choose, and what visible features support that choice?
+I selected the **Phospho-histone H3 dots** phenotype. The pH3 image showed bright fluorescent dots against a dark background, which was consistent with the phenotype example on the BBBC018 webpage. This was a visual classification rather than a verified annotation.
+
+### 2. Were your five cells mostly round or elongated? Refer to your circularity and aspect-ratio results?
+The five cells varied in shape. Cell 1 had the highest circularity, suggesting a rounder shape, while Cell 3 had the lowest circularity, suggesting a more irregular outline. Aspect-ratio values were also used to assess cell elongation.
+
+### 3. What role does actin play in maintaining cell shape and in cell movement?
+Actin filaments form part of the cytoskeleton and help support cell shape. Changes in the actin cytoskeleton can also help cells change shape and generate forces involved in movement.
+
+### 4. Why can a single fixed fluorescence image NOT show how fast a cell moves?
+A fixed fluorescence image captures cells at one point in time. It does not show changes in cell position over time, so cell movement speed cannot be calculated from a single image.
