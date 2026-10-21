@@ -64,7 +64,7 @@ The figures below illustrate the key steps of this activity, from selecting the 
 ## Discussion Questions
 
 ### 1. Which specific phenotype did you choose, and what visible features support that choice?
-I selected the **Phospho-histone H3 dots** phenotype. The pH3 image showed bright fluorescent dots against a dark background, which was consistent with the phenotype example on the BBBC018 webpage. This was a visual classification rather than a verified annotation.
+I selected the Phospho-histone H3 dots phenotype. The pH3 image showed bright fluorescent dots against a dark background, which was consistent with the phenotype example on the BBBC018 webpage. This was a visual classification rather than a verified annotation.
 
 ### 2. Were your five cells mostly round or elongated? Refer to your circularity and aspect-ratio results?
 The five cells varied in shape. Cell 1 had the highest circularity, suggesting a rounder shape, while Cell 3 had the lowest circularity, suggesting a more irregular outline. Aspect-ratio values were also used to assess cell elongation.
