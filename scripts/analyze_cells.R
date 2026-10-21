@@ -1,6 +1,6 @@
 # Replace with your own chosen phenotype and image ID
-phenotype <- "Actin blebs"
-image_id <- "YOUR_IMAGE_FIELD_ID"
+phenotype <- "Phospho-histone H3 dots"
+image_id <- "09340"
 # Read the Fiji Results CSV (no R packages needed)
 d <- read.csv("data/fiji_results.csv", check.names = FALSE)
 needed <- c("Area", "Mean", "Circ.", "AR")
