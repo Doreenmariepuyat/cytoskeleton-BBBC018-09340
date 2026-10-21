@@ -53,15 +53,13 @@ The figures below illustrate the key steps of this activity, from selecting the 
 
 ## Results
 
-### Figure 10. Cell Area versus Circularity
 ![Cell area versus circularity](figures/area_vs_circularity.png)
 
-The five measured cells differed in area and circularity. Cell 2 had the largest area, while Cell 4 had the smallest. Cell 1 had the highest circularity, whereas Cell 3 had the lowest circularity, indicating a less round outline.
+**Figure 10. Cell Area versus Circularity.** The five measured cells differed in area and circularity. Cell 2 had the largest area, while Cell 4 had the smallest. Cell 1 had the highest circularity, whereas Cell 3 had the lowest circularity, indicating a less round outline.
 
-### Figure 11. Mean Actin Fluorescence Intensity
 ![Mean actin fluorescence intensity](figures/actin_intensity.png)
 
-Mean actin fluorescence varied among the five selected cells. Cell 5 had the highest mean intensity, while Cell 1 had the lowest. These values describe the selected regions in this image field and should not be treated as directly comparable with raw intensities from other fields.
+**Figure 11. Mean Actin Fluorescence Intensity.** Mean actin fluorescence varied among the five selected cells. Cell 5 had the highest mean intensity, while Cell 1 had the lowest. These values describe the selected regions in this image field and should not be treated as directly comparable with raw intensities from other fields.
 
 ## Discussion Questions
 
